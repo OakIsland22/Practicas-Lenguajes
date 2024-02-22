@@ -2,7 +2,7 @@
 
 Mi nombre es Juan Daniel Primavera Garcia, tengo *18* años.
 
-![Imagen mia](/Practica_1/Mi%20Imagen.jpeg)
+![Imagen mia](/IMG/Mi%20Imagen.jpeg)
 
 ## Quien soy .  .  .
 Nací y crecí en la ciudad de México el día 22 de diciembre del año 2005. Me llamo Juan Daniel Primavera Garcia, soy hijo de Diana Garcia y Juan Primavera, tengo dos hermanas de las cuales soy le menor.
