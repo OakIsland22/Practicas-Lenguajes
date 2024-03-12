@@ -8,3 +8,5 @@ Este es un repositorio para subir actividades que se realizan para la clase de _
 - [Práctica 3](https://github.com/OakIsland22/Practica_3)
 
 - [Práctica 5](/Practica-5.md)
+
+-  [Práctica 6](https://github.com/OakIsland22/Practica_Ramas)
