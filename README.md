@@ -12,3 +12,5 @@ Este es un repositorio para subir actividades que se realizan para la clase de _
 -  [Práctica 6](https://github.com/OakIsland22/Practica_Ramas)
 
 Creando la versión 1.0.0 de este repositorio.
+
+Creando la versión 1.1.0 de este repositorio.
