@@ -1,0 +1,53 @@
+commit 55bf93e1075993501e280d6ab36d2040dab97763
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Tue Mar 12 12:09:39 2024 -0600
+
+    Agregando enlace de la práctica 6
+
+commit 659f3ad255f191dc1b4048247fb91033647d085c
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Tue Mar 5 09:53:18 2024 -0600
+
+    Agregando enlace y contenido de la Práctica 5
+
+commit 8777e10b3373631b9f4632385dd00744e17e13d9
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Wed Feb 28 10:30:02 2024 -0600
+
+    agreganndo enlace de practica 1
+
+commit 12af1bb9432e96cf1ca09e3cc83bbf2d06c6c6d8
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Wed Feb 28 10:18:57 2024 -0600
+
+    Agregando enlace y contenido de la Práctica 3
+
+commit 78e3b6f97eae5bc9ee3debb85ffafb06efcd5eb5
+Author: OakIsland22 <159934787+OakIsland22@users.noreply.github.com>
+Date:   Wed Feb 28 10:16:05 2024 -0600
+
+    Agregando licencia al repositorio
+
+commit 6c9cff71f32a855642fa12d0cdda85184b5209e3
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Wed Feb 28 10:14:12 2024 -0600
+
+    Creando archivo .gitignore
+
+commit 58c61fa1dc754d5c07f155e33cc1283f38660ffb
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Wed Feb 21 18:00:04 2024 -0600
+
+    Imagen Faltante
+
+commit 1d131b18ff78ff3d5b9bff95f3c31dbf5f3d4e72
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Wed Feb 21 11:02:47 2024 -0600
+
+    Integracion de README
+
+commit 254fdadf5c3699f014bead989ca69af2f648896b
+Author: Juan Primavera <jpsyrelork@gmail.com>
+Date:   Wed Feb 21 10:58:43 2024 -0600
+
+    Primer Commit
